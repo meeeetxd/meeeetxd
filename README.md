@@ -67,7 +67,7 @@
 
 <div align="center">
   
-[![Conversational AI](https://github-readme-stats.vercel.app/api/pin/?username=meeeetxd&repo=conversational-ai-assistant&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=c9d1d9)](https://github.com/meeeetxd/conversational-ai-assistant)
+[![Conversational AI](https://github-readme-stats.vercel.app/api/pin/?username=meeeetxd&repo=conversational-ai-assistant&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=c9d1d9)](https://github.com/meeeetxd/conversational-ai)
 [![RAG System](https://github-readme-stats.vercel.app/api/pin/?username=meeeetxd&repo=pdf-rag-system&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=c9d1d9)](https://github.com/meeeetxd/pdf-rag-system)
 
 </div>
