@@ -63,15 +63,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meeeetxd&theme=algolia&hide_border=true&background=0D1117&stroke=0D1117&fire=00D4AA&currStreakLabel=00D4AA&sideLabels=00D4AA" alt="GitHub Streak" />
 </p>
 
-## 🚀 Featured AI Projects
-
-<div align="center">
-  
-[![Conversational AI](https://github-readme-stats.vercel.app/api/pin/?username=meeeetxd&repo=conversational-ai-assistant&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=c9d1d9)](https://github.com/meeeetxd/conversational-ai)
-[![RAG System](https://github-readme-stats.vercel.app/api/pin/?username=meeeetxd&repo=pdf-rag-system&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=c9d1d9)](https://github.com/meeeetxd/pdf-rag-system)
-
-</div>
-
 ## 🏆 Achievements & Certifications
 
 <div align="center">
