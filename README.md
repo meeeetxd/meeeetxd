@@ -72,12 +72,6 @@
 
 </div>
 
-## 🐍 Contribution Graph
-
-<div align="center" style="position: relative; padding: 20px; background: linear-gradient(135deg, #1f1f1f, #3a3a3a); border-radius: 15px; box-shadow: 0 10px 20px rgba(0, 212, 170, 0.3);">
-  <img src="https://github.com/meeeetxd/meeeetxd/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="max-width: 100%; height: auto; border-radius: 10px;" />
-</div>
-
 ## 🏆 Achievements & Certifications
 
 <div align="center">
